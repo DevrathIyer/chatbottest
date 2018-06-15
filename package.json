@@ -1,0 +1,21 @@
+{
+  "name": "botbuilder-sample-directline-bot",
+  "version": "1.0.0",
+  "description": "Bot Builder Sample - DirectLine Sample - Bot",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Microsoft Corp.",
+  "license": "MIT",
+  "keywords": [
+    "botbuilder",
+    "bots",
+    "chatbots",
+    "botbuilder-samples"
+  ],
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "dotenv-extended": "^1.0.4",
+    "restify": "^4.3.0"
+  }
+}
